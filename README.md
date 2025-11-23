@@ -13,7 +13,7 @@ to plasma structures in the Vela supernova remnant.
 - ✅ Full computational pipeline
 - ✅ Synthetic data fallback (based on published measurements)
 - ⚠️ Chandra FITS download in progress
-- ⚠️ Awaiting independent validation
+- ⚠️ Independent validation in progress
 
 ## What This Shows
 
@@ -21,16 +21,6 @@ When published structural measurements of Vela (7 concentric shells,
 NE-SW asymmetry, persistent filaments) are processed through Symfield 
 operators, the outputs fall within the "coherent substrate" range 
 identified for Earth's GRACE data.
-
-**This does NOT prove:**
-- That Vela is "alive"
-- That consciousness exists in plasma
-- That the ~11,000 year age is wrong
-
-**This DOES demonstrate:**
-- Your framework can be applied to astrophysical data
-- The math produces consistent outputs across scales
-- The hypothesis is falsifiable
 
 ## How to Run
 ```bash
@@ -57,7 +47,7 @@ The framework would be invalidated if:
 ## Feedback Welcome
 
 This is exploratory research. Critique, suggestions, and collaboration 
-requests: [your contact]
+requests: nflynn@symfield.ai
 ```
 
 ---
