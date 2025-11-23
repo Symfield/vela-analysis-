@@ -1,0 +1,16 @@
+## ⚠️ LIMITATIONS
+
+### Current Data Source
+This notebook currently uses **synthetic data** generated from published 
+radial profiles (Sushch+2011). The shell positions and asymmetry patterns 
+are based on literature values.
+
+### What This Means
+- The outputs demonstrate framework consistency
+- They do NOT constitute independent discovery
+- Real FITS analysis is needed for validation
+
+### Why Synthetic?
+Chandra archive access requires specialized credentials. We're working 
+on proper data acquisition. Meanwhile, this shows the computational 
+pipeline works.
