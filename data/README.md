@@ -20,3 +20,10 @@ This directory contains or will contain observational data for Vela SNR analysis
 ## Notes
 - All large data files are `.gitignore`d
 - Download happens automatically when running script
+- **Note on FITS Downloads:**
+The automated download may fail due to authentication requirements. 
+For full Chandra FITS processing, use CIAO tools locally:
+```bash
+download_chandra_obsid 10135
+```
+
